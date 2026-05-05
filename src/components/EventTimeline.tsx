@@ -39,7 +39,7 @@ export default function EventTimeline() {
       <section className="mt-1 mb-4 flex flex-col items-center w-full gap-10">
         <h1 className="text-[#918645] font-serif text-sm sm:text-base md:text-lg text-center px-4 sm:px-6 leading-7 sm:leading-8 w-full">
           <span className="block font-bold">កម្មវិធីថ្ងៃទី២៖</span>
-          <span className="block text-[14px] sm:text-sm md:text-base">ថ្ងៃអាទិត្យ ទី២៦ ខែមេសា ឆ្នាំ២០២៦ (ថ្ងៃកំណត់)</span>
+          <span className="block text-[14px] sm:text-sm md:text-base">ថ្ងៃសៅរ៍ ទី២១ ខែវិច្ឆិកា ឆ្នាំ២០២៦ </span>
         </h1>
         <div className="relative w-[70%] flex flex-col gap-3 text-sm text-foreground/80 font-sans leading-relaxed">
           <div className="flex flex-col">
